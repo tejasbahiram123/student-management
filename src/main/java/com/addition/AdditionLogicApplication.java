@@ -13,4 +13,8 @@ public class AdditionLogicApplication {
 	public String message() {
 		return "hello";
 	}
+	public String message3() {
+		return "hello ok";
+	}
+
 }
