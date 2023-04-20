@@ -13,8 +13,15 @@ public class AdditionLogicApplication {
 	public String message() {
 		return "hello";
 	}
+<<<<<<< Updated upstream
 	public String message3() {
 		return "hello ok";
 	}
 
+=======
+	//stash demo
+	public String message2() {
+		return "hello friends";
+	}
+>>>>>>> Stashed changes
 }
