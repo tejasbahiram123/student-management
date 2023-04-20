@@ -10,4 +10,7 @@ public class AdditionLogicApplication {
 		SpringApplication.run(AdditionLogicApplication.class, args);
 	}
 
+	public String message() {
+		return "hello";
+	}
 }
